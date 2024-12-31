@@ -1,0 +1,36 @@
+Description,Amount,Category
+"Uber ride downtown",15,Travel
+"Supermarket purchase",40,Food
+"Netflix subscription",12,Entertainment
+"Flight to New York",200,Travel
+"Monthly electricity bill",60,Bills
+"Amazon order",20,Shopping
+"Coffee from Starbucks",5,Food
+"Movie at the theater",8,Entertainment
+"Clothing purchase",50,Shopping
+"Restaurant bill",30,Food
+"Taxi to the airport",50,Travel
+"Hotel stay for vacation",150,Travel
+"Concert ticket",40,Entertainment
+"New phone purchase",500,Shopping
+"Gas for car",40,Travel
+"Uber ride to downtown",15,Travel
+"Grocery shopping at Walmart",40,Food
+"Dinner at Olive Garden",30,Food
+"Netflix subscription",12,Entertainment
+"Flight ticket to New York",200,Travel
+"Coffee at Starbucks",5,Food
+"Movie ticket at PVR",8,Entertainment
+"Amazon order for T-shirt",20,Shopping
+"Monthly electricity bill",60,Bills
+"Monthly internet bill",50,Bills
+"Uber ride to airport",25,Travel
+"Lunch at McDonald's",10,Food
+"Subscription to Spotify",15,Entertainment
+"Hotel stay for vacation",150,Travel
+"Shoes purchase from Nike",80,Shopping
+"Gas station fill-up",40,Travel
+"Online course fee for coding bootcamp",200,Education
+"Dinner at local restaurant",35,Food
+"iTunes music purchase",12,Entertainment
+"Subscription to Amazon Prime",10,Entertainment
