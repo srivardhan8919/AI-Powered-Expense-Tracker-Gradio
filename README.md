@@ -1,4 +1,4 @@
-*AI-Powered Expense Tracker with Gradio Interface*
+**AI-Powered Expense Tracker with Gradio Interface**
 
 This project uses machine learning techniques to track and analyze monthly expenses. It processes CSV data with columns Description, Amount, and Category to generate expense summaries, suggestions, and visualizations such as bar and pie charts. The entire workflow is accessible through an intuitive Gradio interface, allowing users to upload a CSV file and get instant insights.
 
